@@ -11,7 +11,7 @@ Bonus
 - better digital art when
 - might do some evolution here because why not
 
-![elf-front](https://github.com/Tsumioshino/Tsumioshino/assets/68740186/0cbcee58-6968-49aa-8b61-5784495d9e29)
+![elf-front](https://github.com/Tsumioshino/Tsumioshino/assets/68740186/e422d4b3-eee6-41b9-996f-0113d3013e61)
 
 Programming Tools
 ---
